@@ -1,2 +1,2 @@
 # leetcode
-leetcode exersise records1
+leetcode exersise records
